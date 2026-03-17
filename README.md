@@ -44,7 +44,6 @@ Tableau dashboards were created to present key insights interactively, including
 - `sql/analysis_queries.sql` – SQL queries used for analysis
 - `notebooks/data_analysis.ipynb` – Python exploratory data analysis
 - `tableau/dashboard.twbx` – Tableau dashboard file
-- `images/` – Dashboard screenshots
 
 ## Tableau Dashboard
 Dashboard visualizes sales performance, customer behaviour, and product trends.
